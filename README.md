@@ -1,4 +1,4 @@
-# PUBLISH NOW
+# Published workflow
 
 ## Description
 
